@@ -1,6 +1,6 @@
 ![Inxton logo](./assets/logo.png)
 
-### [Documentation](https://github.com/Inxton/documentation/blob/master/Inxton.Package.Vortex.Essentials/README.md)
+### [Documentation](https://docs.inxton.com/docu/articles/02essentials/getting_started/getting_started.html)
 ### [Examples](https://github.com/Inxton/Examples-Inxton.Package.Vortex.Essentials)
 ### [Template](https://github.com/Inxton/template.essentials)
 
